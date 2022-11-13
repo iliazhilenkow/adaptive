@@ -1,4 +1,5 @@
-@import url(../null-styles.css);
+@import url(null-styles.css);
+
 .container {
   max-width: 1200px;
 }
